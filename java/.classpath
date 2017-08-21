@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Image"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="JarLib/commons-compress-1.9-javadoc.jar"/>
+	<classpathentry kind="lib" path="JarLib/commons-compress-1.9.jar"/>
+	<classpathentry kind="lib" path="JarLib/ddmlib.jar"/>
+	<classpathentry kind="lib" path="JarLib/ddms.jar"/>
+	<classpathentry kind="lib" path="JarLib/HUI.jar"/>
+	<classpathentry kind="lib" path="JarLib/RadishLib.jar"/>
+	<classpathentry kind="lib" path="JarLib/selenium-server-standalone-2.20.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HisdarLib"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/MultiTouchEventParser"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

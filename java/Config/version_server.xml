@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Config>
+    <versionServerPath>\\siarnd-fs\sia01\TC_Handset_Xian_SW_F\01SP软件\07-项目组共享\02-SP驱动软件组\驱动器件组\31.常规器件组\103-TP责任田\02-触摸屏工具\04-MultiTouchEvent 解析工具\</versionServerPath>
+	<versionServerPath>\\192.168.44.128\Hisdar\UpdateServer\Multi-Touch_Input_Parser\</versionServerPath>
+</Config>

@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Mar 29 18:40:38 CST 2015
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=InputEventParse.jar
+manifest.mergeall=true
+manifest.mainclass=cn.hisdar.touchpaneltool.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
